@@ -6,7 +6,6 @@ use Spreadsheet::WriteExcel;
 use Data::Dumper;
 use Date::Manip;
 use Getopt::Long;
-use Data::Dumper;
 
 ##############################
 # Global vars
