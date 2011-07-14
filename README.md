@@ -32,5 +32,5 @@ Authentication is left to the webserver configuration, see
 Note: read carefully the views.sql file to learn how to mark evaluations and
 the end of the courses.
 
-[auth] http://httpd.apache.org/docs/current/howto/auth.html
-[cgi] http://httpd.apache.org/docs/2.0/howto/cgi.html
+[auth]: http://httpd.apache.org/docs/current/howto/auth.html
+[cgi]: http://httpd.apache.org/docs/2.0/howto/cgi.html
